@@ -1,0 +1,2 @@
+# MATLAB2LINENotification
+MATLABからLINE通知を送る機能を実装した関数
