@@ -1,6 +1,6 @@
 # MATLAB2LINENotification
 MATLABからLINE通知を送る機能を実装した関数
-具体的な説明は Qiita記事に記載しています。
+具体的な説明は [Qiita記事](https://qiita.com/YutaNakamura_bbhomejp/items/be5272d8994db67a9583)に記載しています。
 
 ## 使い方
 
